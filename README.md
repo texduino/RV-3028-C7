@@ -9,7 +9,7 @@
 
 Version: 1.1.0<br>
 Original Release: November 2020<br>
-www.TexDuino.com<br>
+https://texduino.com/products/swiss-precision-real-time-clock<br>
 
 
 For the Arduino library click here: https://github.com/texduino/TexDuino_RV-3028-C7
